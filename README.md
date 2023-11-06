@@ -1,2 +1,2 @@
-# ColorDetect
+# ColorAI
 AI will detect color.
